@@ -1,0 +1,11 @@
+
+
+body {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  max-width: 3000px;
+  margin: 300px auto;
+}
